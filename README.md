@@ -1,15 +1,18 @@
 # 👋 Hello, Everyone!
-I'm Lucas Matheus, a passionate Full Stack Apprentice 🚀
 
-🌱 What I'm Learning <br/>
-- Frontend: React.js ⚛️
-- Backend: C# & SQL Server 🖥️
+## I'm Lucas Matheus, a passionate Full Stack Apprentice 🚀
+
+### 🌱 What I'm Learning <br/>
+- Frontend: React.js ⚛️ & TypeScript
+- Backend: .NET
+& C# 🖥️
+- Database: SQL Server 💾
 - DevOps: Git & Docker 🐳
-## 🎯 Goals
-Build and contribute to exciting projects
-Share knowledge and learn from the community
-Grow my GitHub network through collaboration
-## 🔗 Let's Connect
-Feel free to check out my projects and connect with me!
+- UI Testing: Storybook (Exploring for component testing) 📖
+### 🎯 Goals
+- Build and contribute to exciting projects
+- Share knowledge and learn from the community
+- Grow my GitHub network through collaboration
 
-### HappyCoding 🚀
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msilvalcs)](https://github.com/msilvalcs/github-readme-stats)
